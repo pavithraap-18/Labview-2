@@ -1,2 +1,3 @@
 # Labview-2
 Frequency modulation and demoduLTION
+**Frequency modulation (FM)** in LabVIEW involves varying the frequency of a high-frequency carrier signal based on the amplitude of a lower-frequency message signal. This is achieved using built-in blocks like `MT Modulate FM.vi` for modulation and `MT Demodulate FM.vi` for extracting the original signal. If the Modulation Toolkit is not available, FM can also be implemented using math functions and signal generators. The entire process can be visualized using waveform graphs, making LabVIEW a powerful tool for simulating and analyzing FM systems.
